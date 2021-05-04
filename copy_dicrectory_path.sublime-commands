@@ -1,0 +1,3 @@
+[
+    { "caption": "Copy the path of the directory in which the current file is located", "command": "copy_directory_path" },
+]
